@@ -366,7 +366,7 @@ Type: JavaScript
     
     </aside>
     
-    - [useState()](REACT%20db0d7e1fe39942e683319888186194bf.md) (version 2.0),(Hook)
+    - [useState()](https://www.notion.so/REACT-8fd1095e8b4d4ec2864f1dc25a5af353) (version 2.0),(Hook)
         - O React não sabe quando atualizar os elementos, então por isso usamos o `useState()`
         - Então o `useState()` reflete renderizando nos componentes que o usam de acordo com usa alteração
         - Então no React vamos importar o useState
